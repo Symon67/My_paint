@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+.top-bar {
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    border-bottom: 10px solid black;
+    position: absolute;
+    width: 100%;
+    border-radius: 100px;
+}
+
+.top-bar * {
+    margin: 10px 20px;
+}
+
+#download {
+    border-radius: 50px;
+    border-color: black;
+    background-color: antiquewhite;
+}
+
+#draw {
+    border-radius: 50px;
+    border-color: black;
+    background-color: antiquewhite;
+}
+
+#circle {
+    border-radius: 50px;
+    border-color: black;
+    background-color: antiquewhite;
+}
+
+#rectangle {
+    border-radius: 50px;
+    border-color: black;
+    background-color: antiquewhite;
+}
+
+#clear-btn {
+    border-radius: 50px;
+    border-color: black;
+    background-color: antiquewhite;
+}
